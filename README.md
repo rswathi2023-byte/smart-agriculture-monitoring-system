@@ -1,6 +1,12 @@
 # 🌱 IoT Based Smart Agriculture Monitoring System
 
 An IoT-powered system that monitors soil, weather, and environmental conditions in real time and automates irrigation — helping farmers make data-driven decisions, save water, and improve crop yield.
+
+> Project Report by **Kanishka S** & **Swathi R**
+> B.E. Electronics and Communication Engineering
+> Velammal Engineering College (Autonomous), Chennai — Anna University
+> Even Semester 2024–25
+
 ---
 
 ## 📖 Overview
@@ -96,3 +102,7 @@ smart-agriculture-monitoring/
 Department of Electronics and Communication Engineering
 Velammal Engineering College (Autonomous), Chennai-66
 Affiliated to Anna University, Chennai
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
